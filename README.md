@@ -1,2 +1,3 @@
 # Numerical-Method-Learning-diraries
-This will record me for the learning of Numerical Methods in Fortran
+1. This will record me for Numerical Methods Learnings in Fortran;
+2. Reference Book 《Fortran 95 and 2003: Scientifical calculations and projects》 
